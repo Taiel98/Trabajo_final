@@ -1,0 +1,7 @@
+#divopacity{position:absolute;
+    height:100%;
+    width:100%;
+    background: rgba(0,0,0,0.6);
+    top:0;}
+.registro{margin-top: 50px;}
+.fondo{background-color: lightgrey;background-image: url("img/a.png");}
